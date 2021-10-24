@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WsunCommandError 1`] = `[WsunCommandError: wsun: wsun adaptor replied 'unknown error']`;
+
+exports[`WsunCommandError 2`] = `[WsunCommandError: wsun: wsun adaptor replied 'unknown error']`;
+
+exports[`WsunCommandError 3`] = `[WsunCommandError: wsun: wsun adaptor replied 'unknown error']`;
+
+exports[`WsunCommandError 4`] = `[WsunCommandError: wsun: wsun adaptor replied 'unknown error']`;
+
+exports[`WsunCommandError 5`] = `[WsunCommandError: wsun: wsun adaptor replied 'unsupported command']`;
+
+exports[`WsunCommandError 6`] = `[WsunCommandError: wsun: wsun adaptor replied 'incorrect command']`;
+
+exports[`WsunCommandError 7`] = `[WsunCommandError: wsun: wsun adaptor replied 'incorrect range']`;
+
+exports[`WsunCommandError 8`] = `[WsunCommandError: wsun: wsun adaptor replied 'unknown error']`;
+
+exports[`WsunCommandError 9`] = `[WsunCommandError: wsun: wsun adaptor replied 'unknown error']`;
+
+exports[`WsunCommandError 10`] = `[WsunCommandError: wsun: wsun adaptor replied 'uart error']`;
+
+exports[`WsunCommandError 11`] = `[WsunCommandError: wsun: wsun adaptor replied 'failed to get result']`;
+
+exports[`WsunCommandError 12`] = `[WsunCommandError: wsun: wsun adaptor replied 'unknown error']`;

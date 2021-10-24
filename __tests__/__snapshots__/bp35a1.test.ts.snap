@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WSunAdaptor check functions 1`] = `[TypeError: The '0123456789ABCDEFG' must be mac address]`;
+
+exports[`WSunAdaptor check functions 2`] = `[RangeError: The channel must be >= 0x21 and <= 0x31]`;
+
+exports[`WSunAdaptor check functions 3`] = `[RangeError: The PAN ID must be >= 0 and <= 0xffff]`;
+
+exports[`WSunAdaptor check functions 4`] = `[WsunError: wsun: unexpected error occured while reading ascii mode]`;
+
+exports[`WSunAdaptor check functions 5`] = `[WsunTimeoutError: wsun: command timeout]`;

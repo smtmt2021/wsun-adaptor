@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`num2hex 1`] = `"the specified number is too large, 9007199254740992"`;
+
+exports[`num2hex 2`] = `"invalid size of bytes, $0"`;
+
+exports[`num2hex 3`] = `"invalid size of bytes, $9"`;
