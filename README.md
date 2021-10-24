@@ -1,6 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Node.js CI](https://github.com/smtmt2021/wsun-adaptor/workflows/Node.js%20CI/badge.svg)](https://github.com/smtmt2021/wsun-adaptor/actions?query=workflow%3A%22Node.js+CI%22)
-
+[![Node.js CI](https://github.com/smtmt2021/wsun-adaptor/actions/workflows/node.js.yml/badge.svg)](https://github.com/smtmt2021/wsun-adaptor/actions/workflows/node.js.yml)
 # WSUN Adaptor Interface
 
 It provides an interface to WSUN adaptor,
@@ -74,4 +73,4 @@ File or module                    | Environment variable
 
 ## License
 - MIT license
-- Copyright (c) KINOSHITA minoru <smtmt2021@gmail.com>, All Rights Reserved.
+- Copyright (c) KINOSHITA minoru, All Rights Reserved.
