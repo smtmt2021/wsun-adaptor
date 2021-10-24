@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WSunAdaptor open failed due to invalid cache 1`] = `[TypeError: Spcecified cache is invalid]`;
+
+exports[`WSunAdaptor open failed due to invalid cache 2`] = `[TypeError: Spcecified cache is invalid]`;
+
+exports[`WSunAdaptor open failed due to invalid cache 3`] = `[TypeError: Spcecified cache is invalid]`;
+
+exports[`WSunAdaptor open failed due to invalid id 1`] = `[RangeError: Wsun ID must be 32 charactors]`;
+
+exports[`WSunAdaptor open failed due to invalid password 1`] = `[RangeError: Wsun password must be 1 <= and <= 32]`;
+
+exports[`WSunAdaptor open failed due to lookup 1`] = `[WsunTimeoutError: wsun: command timeout]`;
+
+exports[`WSunAdaptor open failed due to no join device 1`] = `[Error: Timeout while making a PANA connection]`;
+
+exports[`WSunAdaptor open failed due to no scan complete event 1`] = `[Error: Timeout while scanning PAN]`;
+
+exports[`WSunAdaptor open throw SEND TIMEOUT 1`] = `[WsunTimeoutError: wsun: command timeout]`;
+
+exports[`WSunAdaptor re-open throw INVALD STATE 1`] = `[Error: Invalid state]`;
+
+exports[`WSunAdaptor send data (no handle to send) 1`] = `[WsunError: wsun: no handle to send a dgram]`;
+
+exports[`WSunAdaptor send data (retry: 4) 1`] = `[WsunUdpTransmissionFailed: wsun: wsun adaptor replied 'udp transmission failed']`;
+
+exports[`WSunAdaptor send data simultaneously to make an exception 1`] = `[WsunSendingInProgress: wsun: wsun is sending in progress]`;
+
+exports[`WSunAdaptor send data to invalid address 1`] = `[TypeError: '0123456789ABCDEG' must be ipv6 or mac address]`;
+
+exports[`WSunAdaptor send data to invalid port 1`] = `[RangeError: The port muse be 1 <= and <= 0xffff]`;
+
+exports[`WSunAdaptor send data when not online 1`] = `[Error: Invalid state]`;
+
+exports[`WSunAdaptor send large data 1`] = `[Error: Size of dgram is too large, 1025]`;

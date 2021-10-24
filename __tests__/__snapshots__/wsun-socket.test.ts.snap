@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WsunSocket.bind bind successfully and bind again 1`] = `[WsunError: wsun: Already listening the port]`;
+
+exports[`WsunSocket.bind throw INVALID_RANGE 1`] = `[RangeError: The port muse be 1 <= and <= 0xffff]`;
+
+exports[`WsunSocket.bind throw INVALID_RANGE 2`] = `[RangeError: The port muse be 1 <= and <= 0xffff]`;
+
+exports[`WsunSocket.send throw INVALID_ADDRESS 1`] = `[TypeError: 1234:2345:3456:4567:5678:6789:789A:89gh must be ipv6 or mac address]`;
+
+exports[`WsunSocket.send throw INVALID_RANGE 1`] = `[RangeError: The port muse be 1 <= and <= 0xffff]`;
+
+exports[`WsunSocket.send throw INVALID_RANGE 2`] = `[RangeError: The port muse be 1 <= and <= 0xffff]`;
+
+exports[`WsunSocket.send throw NOT_ONLINE 1`] = `[Error: Invalid state]`;
+
+exports[`WsunSocket.send throw TOO_LONG 1`] = `[Error: Size of dgram is too large, 1025]`;

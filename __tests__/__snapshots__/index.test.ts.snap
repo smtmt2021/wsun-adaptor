@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WsunGetAdaptor cannot make an instance due to serial port 1`] = `"wsun: cannot set up serialport"`;
