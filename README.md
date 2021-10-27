@@ -1,5 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Node.js CI](https://github.com/smtmt2021/wsun-adaptor/actions/workflows/node.js.yml/badge.svg)](https://github.com/smtmt2021/wsun-adaptor/actions/workflows/node.js.yml)
+[![Node.js Package](https://github.com/smtmt2021/wsun-adaptor/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/smtmt2021/wsun-adaptor/actions/workflows/npm-publish.yml)
 # WSUN Adaptor Interface
 
 It provides an interface to WSUN adaptor,
